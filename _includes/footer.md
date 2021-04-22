@@ -1,8 +1,7 @@
 
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Deze website is een initiatief van [Florian Dierickx](https://floriandierickx.github.io)
 &mdash;
 [SinglePaged theme](https://github.com/t413/SinglePaged)
 &mdash;
-this site is [open source]({{ site.source_link }})
+Deze website is [open source]({{ site.source_link }})
 
